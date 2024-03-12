@@ -25,10 +25,10 @@ Tracking the evolution of the pandemic over time, this datasheet showcases tempo
 ## Tableau Dashboard:
 Integrating these four datasheets, a comprehensive Tableau dashboard was crafted, synthesizing multifaceted insights into a cohesive visual narrative. The dashboard seamlessly presents:
 
-# 1. Global Numbers in a compact table format.
-# 2. Continent-wise Death Distribution through intuitive horizontal bar charts.
-# 3. Population Infection Analysis with a dynamic symbol map chart.
-# 4. Temporal Infection Trends illustrated via an insightful line chart with forecast projections.
+### 1. Global Numbers in a compact table format.
+### 2. Continent-wise Death Distribution through intuitive horizontal bar charts.
+### 3. Population Infection Analysis with a dynamic symbol map chart.
+### 4. Temporal Infection Trends illustrated via an insightful line chart with forecast projections.
 
 Through this holistic approach, the Tableau dashboard serves as a powerful tool for stakeholders to grasp the magnitude and trajectory of the COVID-19 pandemic, enabling informed decision-making and strategic planning in combating the crisis.
 
