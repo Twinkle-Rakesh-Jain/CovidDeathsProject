@@ -22,4 +22,17 @@ Through this datasheet, a deeper understanding of infection rates in relation to
 ## 4. Temporal Infection Trends:
 Tracking the evolution of the pandemic over time, this datasheet showcases temporal trends in infection rates. By plotting percent population infected from 2021 to 2023, alongside a forecast, it offers insights into the trajectory of the pandemic, aiding in strategic planning and decision-making.
 
+## Tableau Dashboard:
+Integrating these four datasheets, a comprehensive Tableau dashboard was crafted, synthesizing multifaceted insights into a cohesive visual narrative. The dashboard seamlessly presents:
+
+## 1. Global Numbers in a compact table format.
+## 2. Continent-wise Death Distribution through intuitive horizontal bar charts.
+## 3. Population Infection Analysis with a dynamic symbol map chart.
+## 4. Temporal Infection Trends illustrated via an insightful line chart with forecast projections.
+
+Through this holistic approach, the Tableau dashboard serves as a powerful tool for stakeholders to grasp the magnitude and trajectory of the COVID-19 pandemic, enabling informed decision-making and strategic planning in combating the crisis.
+
+<img width="1408" alt="Screen Shot 2024-03-12 at 6 23 18 PM" src="https://github.com/Twinkle-Rakesh-Jain/CovidDeathsProject/assets/159181933/717ba8f5-5d6a-4b7d-b810-091e0842197d">
+
+
 
